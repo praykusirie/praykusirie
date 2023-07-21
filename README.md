@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praykusirie
 - 👀 I’m interested in ...fullstack development
-- 🌱 I’m currently learning ...REACT JS
+- 🌱 I’m currently learning ...SVELTE JS
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...prayjonas27@gmail.com
 
